@@ -1,0 +1,12 @@
+127.0.0.1 - - [02/Aug/2023:12:01:37 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Aug/2023:12:01:38 +0530] "GET /ResponseInfoApp/test HTTP/1.1" 200 202778
+127.0.0.1 - - [02/Aug/2023:13:27:53 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Aug/2023:13:28:35 +0530] "GET /RequestResponseApp/demo HTTP/1.1" 200 502
+127.0.0.1 - - [02/Aug/2023:13:34:50 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Aug/2023:13:34:51 +0530] "GET /ServletConfigApp/init HTTP/1.1" 404 776
+127.0.0.1 - - [02/Aug/2023:13:38:21 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Aug/2023:13:38:22 +0530] "GET /ServletConfigApp/init HTTP/1.1" 200 271
+127.0.0.1 - - [02/Aug/2023:13:52:17 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Aug/2023:13:52:18 +0530] "GET /ServletDBCommunication/servlet/in.Kavana.controller.DbController HTTP/1.1" 404 823
+127.0.0.1 - - [02/Aug/2023:13:56:18 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Aug/2023:13:56:19 +0530] "GET /ServletDBCommunication/db HTTP/1.1" 200 33
